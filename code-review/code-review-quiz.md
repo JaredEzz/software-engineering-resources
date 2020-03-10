@@ -11,6 +11,8 @@
 </p>
 </details>
 
+---
+
 #### Question 2: The author should interpret your review comments as:
     A — Commands  
     B — Orders  
@@ -21,6 +23,8 @@
     D — Requests  
 </p>
 </details>
+
+---
 
 #### Question 3: The author should interpret your review comments as:
     A — Team Lead  
@@ -33,6 +37,8 @@
     E — No one 
 </p>
 </details>
+
+---
 
 #### Question 4: The author should interpret your review comments as:
     A — Reduced Bugs  
