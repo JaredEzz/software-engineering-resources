@@ -16,4 +16,12 @@ https://en.wikipedia.org/wiki/Test-driven_development
 
 [Exercise](https://docs.google.com/document/d/1Xu1gTcs3_MDw_ZFHRhB6KighQhR0AY4fmADJUJdTGCc/edit?usp=sharing)
 
-
+### Markdown
+[Adam Pritchard's Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#hr)
+[Markdown by John Gruber](https://daringfireball.net/projects/markdown/)
+[Markdown on Github](https://help.github.com/en/github/writing-on-github)
+[Awesome Markdown Collection](https://github.com/mundimark/awesome-markdown)
+[StackEdit: In-browser MD document editor](https://stackedit.io/)
+[Minimalist Online Markdown Editor](http://markdown.pioul.fr/)
+[Mou: macOS editor](http://25.io/mou/)
+[Haroopad: Cross-platform editor](http://pad.haroopress.com/user.html)
