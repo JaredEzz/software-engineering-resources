@@ -30,7 +30,7 @@
 
 ---
 
-#### Question 3: Which of the following is a benefit of TDD?:
+#### Question 3: Which of the following is a benefit of TDD?
     A — TDD may result in more unit tests   
     B — TDD can lead to more modularized code   
     C — TDD tends to result in tests that cover every code path   
@@ -43,7 +43,7 @@
 
 ---
 
-#### Question 4: True or False: Test doubles (such as mocks) are not used in TDD?
+#### Question 4: True or False? — Test doubles (such as mocks) are not used in TDD
 <details><summary>Answer 4</summary>
 <p>
     False <!--TODO add an explanation here-->
