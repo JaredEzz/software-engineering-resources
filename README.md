@@ -14,6 +14,16 @@ Oftentimes I read these pages only to get the minimum amount of information for 
 [Quiz](./docker/docker-quiz.md)  
 [Tutorial](https://github.com/JaredEzz/software-engineering-resources/blob/master/docker/docker-tutorial.pdf)  
 
+#### Jenkins
+###### Simple Deployment Pipeline
+[Build a Simple Deployment Pipeline]()  
+[Quiz](./jenkins/simple/jenkins-simple-quiz.md)  
+[Tutorial]()  
+###### Continuous Delivery
+[More Jenkins Features]()  
+[Quiz]()  
+[Tutorial]()  
+
 #### Markdown
 [Adam Pritchard's Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#hr)  
 [Markdown by John Gruber](https://daringfireball.net/projects/markdown/)  
