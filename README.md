@@ -16,13 +16,13 @@ Oftentimes I read these pages only to get the minimum amount of information for 
 
 #### Jenkins
 ###### Simple Deployment Pipeline
-[Build a Simple Deployment Pipeline]()  
+[Build a Simple Deployment Pipeline](https://github.com/JaredEzz/software-engineering-resources/blob/cs204_additions/jenkins/simple/jenkins-simple-build.pdf)  
 [Quiz](./jenkins/simple/jenkins-simple-quiz.md)  
-[Tutorial]()  
+[Tutorial](https://github.com/JaredEzz/software-engineering-resources/blob/cs204_additions/jenkins/simple/jenkins-simple-tutorial.pdf)  
 ###### Continuous Delivery
-[More Jenkins Features]()  
-[Quiz]()  
-[Tutorial]()  
+[More Jenkins Features](https://github.com/JaredEzz/software-engineering-resources/blob/cs204_additions/jenkins/cd/jenkins-cd-reading.pdf)  
+[Quiz](./jenkins/cd/jenkins-cd-quiz.md)  
+[Tutorial](https://github.com/JaredEzz/software-engineering-resources/blob/cs204_additions/jenkins/cd/jenkins-cd-tutorial.pdf)  
 
 #### Markdown
 [Adam Pritchard's Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#hr)  
