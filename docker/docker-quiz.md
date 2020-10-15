@@ -37,7 +37,7 @@
 <p>
     B - Docker 
     
-    Virtual machines have to emulate hardware, while containerized applications run directly on the server that hosts them. That means containers should be faster than virtual machines, because they have less overhead.
+Virtual machines have to emulate hardware, while containerized applications run directly on the server that hosts them. That means containers should be faster than virtual machines, because they have less overhead.
     [Read more](https://www.channelfutures.com/technologies/docker-vs-virtual-machines-understanding-the-performance-differences#:~:text=Virtual%20machines%20have%20to%20emulate,because%20they%20have%20less%20overhead.)  
 </p>
 </details>
@@ -51,7 +51,8 @@
     D — docker image
 <details><summary>Answer 3</summary>
 <p>
-    A — [docker run](https://docs.docker.com/engine/reference/run/)
+  A — docker run
+  https://docs.docker.com/engine/reference/run/
     
 </p>
 </details>
