@@ -25,11 +25,11 @@ https://en.wikipedia.org/wiki/Test-driven_development
 
 #### Maven
 
-[Material](./maven/maven-reading.pdf)
+[Material](./maven/maven-reading.md)
 
 [Quiz](./maven/maven-quiz.md)
 
-[Tutorial](./maven/maven-tutorial.pdf)
+[Tutorial](https://github.com/JaredEzz/software-engineering-resources/raw/master/maven/maven-tutorial.pdf)
 
 #### Markdown
 [Adam Pritchard's Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#hr)  
