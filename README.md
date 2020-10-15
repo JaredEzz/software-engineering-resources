@@ -8,6 +8,13 @@ https://en.wikipedia.org/wiki/Test-driven_development
 
 [Quiz](./test-driven-development/test-driven-development-quiz.md)
 
+#### Docker
+[Why use Docker? and Setup](https://github.com/JaredEzz/software-engineering-resources/blob/master/raw-downloads/Docker%20Pre-class%20Assignment%20-%20Google%20Docs.pdf)
+
+[Quiz](./docker/docker-quiz.md)
+
+[Tutorial](https://github.com/JaredEzz/software-engineering-resources/blob/master/raw-downloads/Docker%20Tutorial%20-%20Google%20Docs.pdf)
+
 #### Code Reviews
 
 [Material](https://docs.google.com/document/d/1fDF5F4Ne_P8LKLvKWe-W62MOL9EOa0K9To-LsuEARbw/edit?usp=sharing "Code Reviews") <!-- Change links to pdfs included in the repo -->
@@ -20,7 +27,7 @@ https://en.wikipedia.org/wiki/Test-driven_development
 
 [Material](./maven/maven-reading.pdf)
 
-[Quiz](./code-review/maven-quiz.md)
+[Quiz](./maven/maven-quiz.md)
 
 [Tutorial](./maven/maven-tutorial.pdf)
 
