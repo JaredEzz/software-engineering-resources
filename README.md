@@ -3,26 +3,26 @@
 
 Oftentimes I read these pages only to get the minimum amount of information for a required assignment, and then I moved on. I've collected them here for further study.
 
-#### Test-Driven Development (TDD)
-https://en.wikipedia.org/wiki/Test-driven_development
-
-[Quiz](./test-driven-development/test-driven-development-quiz.md)
-
 #### Code Reviews
 
-[Material](https://docs.google.com/document/d/1fDF5F4Ne_P8LKLvKWe-W62MOL9EOa0K9To-LsuEARbw/edit?usp=sharing "Code Reviews") <!-- Change links to pdfs included in the repo -->
+[Material](https://docs.google.com/document/d/1fDF5F4Ne_P8LKLvKWe-W62MOL9EOa0K9To-LsuEARbw/edit?usp=sharing "Code Reviews")  
+[Quiz](./code-review/code-review-quiz.md)  
+[Exercise](https://docs.google.com/document/d/1Xu1gTcs3_MDw_ZFHRhB6KighQhR0AY4fmADJUJdTGCc/edit?usp=sharing)  
 
-[Quiz](./code-review/code-review-quiz.md)
+#### Docker
+[Install, Set up and Run a Container](https://github.com/JaredEzz/software-engineering-resources/blob/master/docker/docker-reading.pdf)  
+[Quiz](./docker/docker-quiz.md)  
+[Tutorial](https://github.com/JaredEzz/software-engineering-resources/blob/master/docker/docker-tutorial.pdf)  
 
-[Exercise](https://docs.google.com/document/d/1Xu1gTcs3_MDw_ZFHRhB6KighQhR0AY4fmADJUJdTGCc/edit?usp=sharing)
-
-#### Maven
-
-[Material](./maven/maven-reading.pdf)
-
-[Quiz](./code-review/maven-quiz.md)
-
-[Tutorial](./maven/maven-tutorial.pdf)
+#### Jenkins
+###### Simple Deployment Pipeline
+[Build a Simple Deployment Pipeline](https://github.com/JaredEzz/software-engineering-resources/blob/cs204_additions/jenkins/simple/jenkins-simple-build.pdf)  
+[Quiz](./jenkins/simple/jenkins-simple-quiz.md)  
+[Tutorial](https://github.com/JaredEzz/software-engineering-resources/blob/cs204_additions/jenkins/simple/jenkins-simple-tutorial.pdf)  
+###### Continuous Delivery
+[More Jenkins Features](https://github.com/JaredEzz/software-engineering-resources/blob/cs204_additions/jenkins/cd/jenkins-cd-reading.pdf)  
+[Quiz](./jenkins/cd/jenkins-cd-quiz.md)  
+[Tutorial](https://github.com/JaredEzz/software-engineering-resources/blob/cs204_additions/jenkins/cd/jenkins-cd-tutorial.pdf)  
 
 #### Markdown
 [Adam Pritchard's Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#hr)  
@@ -31,21 +31,37 @@ https://en.wikipedia.org/wiki/Test-driven_development
 [Awesome Markdown Collection](https://github.com/mundimark/awesome-markdown)  
 ###### Tools for Markdown  
 [StackEdit: In-browser MD document editor](https://stackedit.io/)  
-[Minimalist Online Markdown Editor](http://markdown.pioul.fr/)
-[Mou: macOS editor](http://25.io/mou/)
-[Haroopad: Cross-platform editor](http://pad.haroopress.com/user.html)
+[Minimalist Online Markdown Editor](http://markdown.pioul.fr/)  
+[Mou: macOS editor](http://25.io/mou/)  
+[Haroopad: Cross-platform editor](http://pad.haroopress.com/user.html)  
+
+#### Maven
+
+[Material](./maven/maven-reading.md)  
+[Quiz](./maven/maven-quiz.md)  
+[Tutorial](https://github.com/JaredEzz/software-engineering-resources/blob/master/maven/maven-tutorial.pdf)  
+
+#### MongoDB
+
+[Learning MongoDB - BYU](https://github.com/BYU-CS-260/learning-mongo)
 
 #### Node.js & Express
 
 [Learning Node and Express as a backend - BYU](https://github.com/BYU-CS-260/learning-node-express)  
 [Node, Express, and Vue Todo List - BYU](https://github.com/BYU-CS-260/node-express-vue-todo)
 
-#### MongoDB
-
-[Learning MongoDB - BYU](https://github.com/BYU-CS-260/learning-mongo)
-
-
 #### Security
 
 [Securing Websites with Certificates](https://github.com/BYU-CS-260/website-certificates)  
-[Authenticating Users](https://github.com/BYU-CS-260/authenticating-users)
+[Authenticating Users](https://github.com/BYU-CS-260/authenticating-users). 
+
+
+#### Test-Driven Development (TDD)
+https://en.wikipedia.org/wiki/Test-driven_development
+
+[Quiz](./test-driven-development/test-driven-development-quiz.md)
+
+#### Virtual Machines
+[Setting up a Virtual Machine (VirtualBox)](https://github.com/JaredEzz/software-engineering-resources/blob/master/virtual-machines/vm-setup.pdf)  
+[Quiz](./virtual-machines/vm-quiz.md)  
+[Tutorial](https://github.com/JaredEzz/software-engineering-resources/blob/master/virtual-machines/vm-tutorial.pdf)  
