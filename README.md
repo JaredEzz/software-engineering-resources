@@ -3,6 +3,11 @@
 
 Oftentimes I read these pages only to get the minimum amount of information for a required assignment, and then I moved on. I've collected them here for further study.
 
+#### Basic Testing Concepts
+[Readings](https://github.com/JaredEzz/software-engineering-resources/blob/master/basic-testing-concepts/Basic%20Testing%20Concepts%20Pre-Class%20Assignment.pdf)  
+[Quiz](./basic-testing-concepts/basic_testing-quiz.md)  
+[Tutorial - Defining Good Test Cases](https://github.com/JaredEzz/software-engineering-resources/blob/master/basic-testing-concepts/Basic%20Testing%20Concepts%20Lab.pdf)  
+
 #### Code Reviews
 
 [Material](https://docs.google.com/document/d/1fDF5F4Ne_P8LKLvKWe-W62MOL9EOa0K9To-LsuEARbw/edit?usp=sharing "Code Reviews")  
@@ -16,13 +21,13 @@ Oftentimes I read these pages only to get the minimum amount of information for 
 
 #### Jenkins
 ###### Simple Deployment Pipeline
-[Build a Simple Deployment Pipeline](https://github.com/JaredEzz/software-engineering-resources/blob/cs204_additions/jenkins/simple/jenkins-simple-build.pdf)  
+[Build a Simple Deployment Pipeline](https://github.com/JaredEzz/software-engineering-resources/blob/master/jenkins/simple/jenkins-simple-build.pdf)  
 [Quiz](./jenkins/simple/jenkins-simple-quiz.md)  
-[Tutorial](https://github.com/JaredEzz/software-engineering-resources/blob/cs204_additions/jenkins/simple/jenkins-simple-tutorial.pdf)  
+[Tutorial](https://github.com/JaredEzz/software-engineering-resources/blob/master/jenkins/simple/jenkins-simple-tutorial.pdf)  
 ###### Continuous Delivery
-[More Jenkins Features](https://github.com/JaredEzz/software-engineering-resources/blob/cs204_additions/jenkins/cd/jenkins-cd-reading.pdf)  
+[More Jenkins Features](https://github.com/JaredEzz/software-engineering-resources/blob/master/jenkins/cd/jenkins-cd-reading.pdf)  
 [Quiz](./jenkins/cd/jenkins-cd-quiz.md)  
-[Tutorial](https://github.com/JaredEzz/software-engineering-resources/blob/cs204_additions/jenkins/cd/jenkins-cd-tutorial.pdf)  
+[Tutorial](https://github.com/JaredEzz/software-engineering-resources/blob/master/jenkins/cd/jenkins-cd-tutorial.pdf)  
 
 #### Markdown
 [Adam Pritchard's Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#hr)  
