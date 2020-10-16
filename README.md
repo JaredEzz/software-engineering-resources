@@ -64,7 +64,17 @@ Oftentimes I read these pages only to get the minimum amount of information for 
 ###### Continuous Delivery
 [More Jenkins Features](https://github.com/JaredEzz/software-engineering-resources/blob/master/jenkins/cd/jenkins-cd-reading.pdf)  
 [Quiz](./jenkins/cd/jenkins-cd-quiz.md)  
-[Tutorial](https://github.com/JaredEzz/software-engineering-resources/blob/master/jenkins/cd/jenkins-cd-tutorial.pdf)  
+[Tutorial](https://github.com/JaredEzz/software-engineering-resources/blob/master/jenkins/cd/jenkins-cd-tutorial.pdf) 
+
+
+#### Labs 1-5;  
+[🛠️ Lab 1_ Photographer's Website.pdf](https://github.com/franklynr92/software-engineering-resources/blob/master/Labs/%F0%9F%9B%A0%EF%B8%8F%20Lab%201_%20Photographer's%20Website.pdf)  
+[🛠️ Lab 2_ Weather App.pdf](https://github.com/franklynr92/software-engineering-resources/blob/master/Labs/%F0%9F%9B%A0%EF%B8%8F%20Lab%202_%20Weather%20App.pdf)  
+[🛠️ Lab 3a_ Vue XKCD Browser.pdf](https://github.com/franklynr92/software-engineering-resources/blob/master/Labs/%F0%9F%9B%A0%EF%B8%8F%20Lab%203a_%20Vue%20XKCD%20Browser.pdf)  
+[🛠️ Lab 3b_ Grocery Store.pdf](https://github.com/franklynr92/software-engineering-resources/blob/master/Labs/%F0%9F%9B%A0%EF%B8%8F%20Lab%203b_%20Grocery%20Store.pdf)  
+[🛠️ Lab 4_ Museum of Ordinary Objects.pdf](https://github.com/franklynr92/software-engineering-resources/blob/master/Labs/%F0%9F%9B%A0%EF%B8%8F%20Lab%204_%20Museum%20of%20Ordinary%20Objects.pdf)  
+[🛠️ Lab 5_ Photo Bomb.pdf](https://github.com/franklynr92/software-engineering-resources/blob/master/Labs/%F0%9F%9B%A0%EF%B8%8F%20Lab%205_%20Photo%20Bomb.pdf)  
+
 
 #### Markdown
 [Adam Pritchard's Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#hr)  
