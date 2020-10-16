@@ -10,7 +10,6 @@ Oftentimes I read these pages only to get the minimum amount of information for 
 [Learning Web Design Principles Part 2](https://github.com/JaredEzz/software-engineering-resources/blob/master/Activity_C_Folder/%F0%9F%92%BB%20Activity%20C4_%20Learning%20Web%20Design%20Principles%20Part%202.pdf)  
 
 
-
 #### Activity D - Development Workflow with Git; Understanding HTTP; Web Server Configuration;  
 [Exercise Git](https://github.com/JaredEzz/software-engineering-resources/blob/master/Work/Activity_D_folder/%F0%9F%92%BB%20Activity%20D7_%20Development%20Workflow%20with%20Git.pdf)  
 [Exercise HTTP](https://github.com/JaredEzz/software-engineering-resources/blob/master/Work/Activity_D_folder/%F0%9F%92%BB%20Activity%20D8_%20Understanding%20HTTP.pdf)  
@@ -27,7 +26,13 @@ Oftentimes I read these pages only to get the minimum amount of information for 
 [Exercise Learning Vue](https://github.com/JaredEzz/software-engineering-resources/blob/master/Work/Activity_V_folder/%F0%9F%92%BB%20Activity%20V1_%20Learning%20Vue.pdf)  
 [Exercise Todo List](https://github.com/JaredEzz/software-engineering-resources/blob/master/Work/Activity_V_folder/%F0%9F%92%BB%20Activity%20V2_%20Todo%20List.pdf)  
 [Exercise Learning the Vue CLI](https://github.com/JaredEzz/software-engineering-resources/blob/master/Work/Activity_V_folder/%20Activity%20V3_%20Learning%20the%20Vue%20CLI.pdf)  
-[Exercise Learnering Vue Router](https://github.com/JaredEzz/software-engineering-resources/blob/master/Work/Activity_V_folder/Activity%20V4_%20Learning%20Vue%20Router%20(OPTIONAL%2C%20NOT%20GRADED).pdf)      
+[Exercise Learnering Vue Router](https://github.com/JaredEzz/software-engineering-resources/blob/master/Work/Activity_V_folder/Activity%20V4_%20Learning%20Vue%20Router%20(OPTIONAL%2C%20NOT%20GRADED).pdf)
+
+
+#### Application-Monitoring-with-Prometheus-and-Grafana
+[Readings](https://github.com/JaredEzz/software-engineering-resources/blob/master/Application-Monitoring-with-Prometheus-and-Grafana/Application%20Monitoring%20with%20Prometheus%20and%20Grafana%20Pre-Class%20Reading%20and%20Assignment.pdf)
+[Quiz](./Application-Monitoring-with-Prometheus-and-Grafana/Application-Monitoring-with-Prometheus-and-Grafana-quiz.md)
+[Tutorial and Lab](https://github.com/JaredEzz/software-engineering-resources/blob/master/Application-Monitoring-with-Prometheus-and-Grafana/Application%20Monitoring%20with%20Prometheus%20and%20Grafana%20Tutorial%20and%20Lab.pdf)
 
 #### Aspect Oriented Programming 
 [Readings](https://github.com/JaredEzz/software-engineering-resources/blob/master/aspect-oriented-programming/Aspect%20Oriented%20Programming%20Pre-class%20Reading%20and%20Assignment.pdf)  
@@ -69,12 +74,12 @@ Oftentimes I read these pages only to get the minimum amount of information for 
 
 
 #### Labs 1-5; 
-[🛠️ Lab 1_ Photographer's Website.pdf](https://github.com/franklynr92/software-engineering-resources/blob/master/Work/Labs/%F0%9F%9B%A0%EF%B8%8F%20Lab%201_%20Photographer's%20Website.pdf)  
-[🛠️ Lab 2_ Weather App.pdf](https://github.com/franklynr92/software-engineering-resources/blob/master/Work/Labs/%F0%9F%9B%A0%EF%B8%8F%20Lab%202_%20Weather%20App.pdf)  
-[🛠️ Lab 3a_ Vue XKCD Browser.pdf](https://github.com/franklynr92/software-engineering-resources/blob/master/Work/Labs/%F0%9F%9B%A0%EF%B8%8F%20Lab%203a_%20Vue%20XKCD%20Browser.pdf)  
-[🛠️ Lab 3b_ Grocery Store.pdf](https://github.com/franklynr92/software-engineering-resources/blob/master/Work/Labs/%F0%9F%9B%A0%EF%B8%8F%20Lab%203b_%20Grocery%20Store.pdf)  
-[🛠️ Lab 4_ Museum of Ordinary Objects.pdf](https://github.com/franklynr92/software-engineering-resources/blob/master/Work/Labs/%F0%9F%9B%A0%EF%B8%8F%20Lab%204_%20Museum%20of%20Ordinary%20Objects.pdf)  
-[🛠️ Lab 5_ Photo Bomb.pdf](https://github.com/franklynr92/software-engineering-resources/blob/master/Work/Labs/%F0%9F%9B%A0%EF%B8%8F%20Lab%205_%20Photo%20Bomb.pdf)  
+[🛠️ Lab 1_ Photographer's Website.pdf](https://github.com/JaredEzz/software-engineering-resources/blob/master/Work/Labs/%F0%9F%9B%A0%EF%B8%8F%20Lab%201_%20Photographer's%20Website.pdf)  
+[🛠️ Lab 2_ Weather App.pdf](https://github.com/JaredEzz/software-engineering-resources/blob/master/Work/Labs/%F0%9F%9B%A0%EF%B8%8F%20Lab%202_%20Weather%20App.pdf)  
+[🛠️ Lab 3a_ Vue XKCD Browser.pdf](https://github.com/JaredEzz/software-engineering-resources/blob/master/Work/Labs/%F0%9F%9B%A0%EF%B8%8F%20Lab%203a_%20Vue%20XKCD%20Browser.pdf)  
+[🛠️ Lab 3b_ Grocery Store.pdf](https://github.com/JaredEzz/software-engineering-resources/blob/master/Work/Labs/%F0%9F%9B%A0%EF%B8%8F%20Lab%203b_%20Grocery%20Store.pdf)  
+[🛠️ Lab 4_ Museum of Ordinary Objects.pdf](https://github.com/JaredEzz/software-engineering-resources/blob/master/Work/Labs/%F0%9F%9B%A0%EF%B8%8F%20Lab%204_%20Museum%20of%20Ordinary%20Objects.pdf)  
+[🛠️ Lab 5_ Photo Bomb.pdf](https://github.com/JaredEzz/software-engineering-resources/blob/master/Work/Labs/%F0%9F%9B%A0%EF%B8%8F%20Lab%205_%20Photo%20Bomb.pdf)  
 
 
 #### Markdown
