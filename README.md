@@ -17,8 +17,8 @@ Oftentimes I read these pages only to get the minimum amount of information for 
 
 
 #### Activity J - Learing Javascript Part 4 & Part 5; Debugging Javascript;
-[Learning Javascript Part 4](https://github.com/JaredEzz/software-engineering-resources/blob/master/Work/Activity_J_folder/%F0%9F%92%BB%20Activity%20J4_%20Learning%20JavaScript%20Part%204.pdf)  
-[Learning Javascript Part 5](https://github.com/JaredEzz/software-engineering-resources/blob/master/Work/Activity_J_folder/%F0%9F%92%BB%20Activity%20J5_%20Learning%20JavaScript%20Part%205.pdf)  
+[Exercise Part 4](https://github.com/JaredEzz/software-engineering-resources/blob/master/Work/Activity_J_folder/%F0%9F%92%BB%20Activity%20J4_%20Learning%20JavaScript%20Part%204.pdf)  
+[Exercise Part 5](https://github.com/JaredEzz/software-engineering-resources/blob/master/Work/Activity_J_folder/%F0%9F%92%BB%20Activity%20J5_%20Learning%20JavaScript%20Part%205.pdf)  
 [Exercise Debugging Javascript](https://github.com/JaredEzz/software-engineering-resources/blob/master/Work/Activity_J_folder/%F0%9F%92%BB%20Activity%20J6_%20Debugging%20JavaScript.pdf)  
 
 
