@@ -10,6 +10,12 @@ Oftentimes I read these pages only to get the minimum amount of information for 
 [Exercise Part 2](https://github.com/JaredEzz/software-engineering-resources/blob/master/Activity_C_Folder/%F0%9F%92%BB%20Activity%20C3_%20Learning%20Web%20Design%20Principles%20Part%202.pdf)  
 
 
+#### Activity D - Development Workflow with Git; Understanding HTTP; Web Server Configuration;
+[Exercise Git](https://github.com/JaredEzz/software-engineering-resources/blob/master/Activity_D_folder/%F0%9F%92%BB%20Activity%20D7_%20Development%20Workflow%20with%20Git.pdf)  
+[Exercise HTTP](https://github.com/JaredEzz/software-engineering-resources/blob/master/Activity_D_folder/%F0%9F%92%BB%20Activity%20D8_%20Understanding%20HTTP.pdf)  
+[Exercise Web Server Config](https://github.com/JaredEzz/software-engineering-resources/blob/master/Activity_D_folder/%F0%9F%92%BB%20Activity%20D9_%20Web%20Server%20Configuration.pdf)  
+
+
 #### Aspect Oriented Programming 
 [Readings](https://github.com/JaredEzz/software-engineering-resources/blob/master/aspect-oriented-programming/Aspect%20Oriented%20Programming%20Pre-class%20Reading%20and%20Assignment.pdf)  
 [Quiz](./aspect-oriented-programming/aspect-oriented-programming-quiz.md)  
