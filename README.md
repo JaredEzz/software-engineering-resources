@@ -19,6 +19,13 @@ Oftentimes I read these pages only to get the minimum amount of information for 
 [Quiz](./code-review/code-review-quiz.md)  
 [Exercise](https://docs.google.com/document/d/1Xu1gTcs3_MDw_ZFHRhB6KighQhR0AY4fmADJUJdTGCc/edit?usp=sharing)  
 
+#### Creative Project
+
+[Project 1](https://github.com/JaredEzz/software-engineering-resources/blob/master/Creative-Project/%F0%9F%8E%A8%20Creative%20Project%20%231.pdf)
+[Project 2](https://github.com/JaredEzz/software-engineering-resources/blob/master/Creative-Project/%F0%9F%8E%A8%20Creative%20Project%20%232.pdf)
+[Project 3](https://github.com/JaredEzz/software-engineering-resources/blob/master/Creative-Project/%F0%9F%8E%A8%20Creative%20Project%20%233.pdf)
+[Project 4](https://github.com/JaredEzz/software-engineering-resources/blob/master/Creative-Project/%F0%9F%8E%A8%20Creative%20Project%20%234.pdf)
+
 #### Docker
 [Install, Set up and Run a Container](https://github.com/JaredEzz/software-engineering-resources/blob/master/docker/docker-reading.pdf)  
 [Quiz](./docker/docker-quiz.md)  
