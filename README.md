@@ -67,7 +67,7 @@ Oftentimes I read these pages only to get the minimum amount of information for 
 [Tutorial](https://github.com/JaredEzz/software-engineering-resources/blob/master/jenkins/cd/jenkins-cd-tutorial.pdf) 
 
 
-#### Labs 1-5;  
+#### Labs 1-5; 
 [🛠️ Lab 1_ Photographer's Website.pdf](https://github.com/franklynr92/software-engineering-resources/blob/master/Labs/%F0%9F%9B%A0%EF%B8%8F%20Lab%201_%20Photographer's%20Website.pdf)  
 [🛠️ Lab 2_ Weather App.pdf](https://github.com/franklynr92/software-engineering-resources/blob/master/Labs/%F0%9F%9B%A0%EF%B8%8F%20Lab%202_%20Weather%20App.pdf)  
 [🛠️ Lab 3a_ Vue XKCD Browser.pdf](https://github.com/franklynr92/software-engineering-resources/blob/master/Labs/%F0%9F%9B%A0%EF%B8%8F%20Lab%203a_%20Vue%20XKCD%20Browser.pdf)  
