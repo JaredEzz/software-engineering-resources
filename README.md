@@ -3,6 +3,11 @@
 
 Oftentimes I read these pages only to get the minimum amount of information for a required assignment, and then I moved on. I've collected them here for further study.
 
+#### Basic Testing Concepts
+[Readings]()
+[Quiz](./basic-testing-concepts/basic_testing-quiz.md)
+[Tutorial - Defining Good Test Cases]()
+
 #### Code Reviews
 
 [Material](https://docs.google.com/document/d/1fDF5F4Ne_P8LKLvKWe-W62MOL9EOa0K9To-LsuEARbw/edit?usp=sharing "Code Reviews")  
