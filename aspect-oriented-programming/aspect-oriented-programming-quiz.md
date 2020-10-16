@@ -1,4 +1,4 @@
-# Aspect Oreinted Programming Quiz
+# Aspect Oriented Programming Quiz
 
 #### Question 1: What is Aspect-Oriented Programming?
                  
