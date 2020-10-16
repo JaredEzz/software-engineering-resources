@@ -5,9 +5,9 @@ Oftentimes I read these pages only to get the minimum amount of information for 
 
 #### Activity C - CSS Part 1 & 2; Web Design Principles Part 1 & 2;
 [Exercise Part 1](https://github.com/JaredEzz/software-engineering-resources/blob/master/Activity_C_Folder/%F0%9F%92%BB%20Activity%20C1_%20Learning%20CSS%20Part%201.pdf)  
-[Exercise Part 2](https://github.com/JaredEzz/software-engineering-resources/blob/master/Activity_C_Folder/%F0%9F%92%BB%20Activity%20C2_%20Learning%20CSS%20Part%202.pdf)
-[Exercise Part 1](https://github.com/JaredEzz/software-engineering-resources/blob/master/Activity_C_Folder/%F0%9F%92%BB%20Activity%20C3_%20Learning%20Web%20Design%20Principles%20Part%201.pdf)
-[Exercise Part 2](https://github.com/JaredEzz/software-engineering-resources/blob/master/Activity_C_Folder/%F0%9F%92%BB%20Activity%20C3_%20Learning%20Web%20Design%20Principles%20Part%202.pdf)
+[Exercise Part 2](https://github.com/JaredEzz/software-engineering-resources/blob/master/Activity_C_Folder/%F0%9F%92%BB%20Activity%20C2_%20Learning%20CSS%20Part%202.pdf)  
+[Exercise Part 1](https://github.com/JaredEzz/software-engineering-resources/blob/master/Activity_C_Folder/%F0%9F%92%BB%20Activity%20C3_%20Learning%20Web%20Design%20Principles%20Part%201.pdf)  
+[Exercise Part 2](https://github.com/JaredEzz/software-engineering-resources/blob/master/Activity_C_Folder/%F0%9F%92%BB%20Activity%20C3_%20Learning%20Web%20Design%20Principles%20Part%202.pdf)  
 
 #### Aspect Oriented Programming 
 [Readings](https://github.com/JaredEzz/software-engineering-resources/blob/master/aspect-oriented-programming/Aspect%20Oriented%20Programming%20Pre-class%20Reading%20and%20Assignment.pdf)  
@@ -27,10 +27,10 @@ Oftentimes I read these pages only to get the minimum amount of information for 
 
 #### Creative Project
 
-[Project 1](https://github.com/JaredEzz/software-engineering-resources/blob/master/Creative-Project/%F0%9F%8E%A8%20Creative%20Project%20%231.pdf)
-[Project 2](https://github.com/JaredEzz/software-engineering-resources/blob/master/Creative-Project/%F0%9F%8E%A8%20Creative%20Project%20%232.pdf)
-[Project 3](https://github.com/JaredEzz/software-engineering-resources/blob/master/Creative-Project/%F0%9F%8E%A8%20Creative%20Project%20%233.pdf)
-[Project 4](https://github.com/JaredEzz/software-engineering-resources/blob/master/Creative-Project/%F0%9F%8E%A8%20Creative%20Project%20%234.pdf)
+[Project 1](https://github.com/JaredEzz/software-engineering-resources/blob/master/Creative-Project/%F0%9F%8E%A8%20Creative%20Project%20%231.pdf)  
+[Project 2](https://github.com/JaredEzz/software-engineering-resources/blob/master/Creative-Project/%F0%9F%8E%A8%20Creative%20Project%20%232.pdf)  
+[Project 3](https://github.com/JaredEzz/software-engineering-resources/blob/master/Creative-Project/%F0%9F%8E%A8%20Creative%20Project%20%233.pdf)  
+[Project 4](https://github.com/JaredEzz/software-engineering-resources/blob/master/Creative-Project/%F0%9F%8E%A8%20Creative%20Project%20%234.pdf)  
 
 #### Docker
 [Install, Set up and Run a Container](https://github.com/JaredEzz/software-engineering-resources/blob/master/docker/docker-reading.pdf)  
