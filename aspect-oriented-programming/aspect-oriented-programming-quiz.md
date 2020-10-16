@@ -51,21 +51,8 @@
     D — Business logic and Tracing
 <details><summary>Answer 4</summary>
 <p>
-    D — Business logic and Tracing
+    B — Pointcuts and advices
 </p>
 </details>
 
 ---
-
-#### Question 5: I completed all pre-class readings and assignments for this topic before completing this quiz.
-    A — True
-    B — False
-<details><summary>Answer 5</summary>
-<p>
-    A — True
-</p>
-</details>
-
----
-
-
