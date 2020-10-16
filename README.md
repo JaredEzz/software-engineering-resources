@@ -4,10 +4,10 @@
 Oftentimes I read these pages only to get the minimum amount of information for a required assignment, and then I moved on. I've collected them here for further study.
 
 #### Activity C - CSS Part 1 & 2; Web Design Principles Part 1 & 2;  
-[Exercise Part 1](https://github.com/JaredEzz/software-engineering-resources/blob/master/Work/Activity_C_Folder/%F0%9F%92%BB%20Activity%20C1_%20Learning%20CSS%20Part%201.pdf)  
-[Exercise Part 2](https://github.com/JaredEzz/software-engineering-resources/blob/master/Work/Activity_C_Folder/%F0%9F%92%BB%20Activity%20C2_%20Learning%20CSS%20Part%202.pdf)  
-[Exercise Part 1](https://github.com/JaredEzz/software-engineering-resources/blob/master/Work/Activity_C_Folder/%F0%9F%92%BB%20Activity%20C3_%20Learning%20Web%20Design%20Principles%20Part%201.pdf)  
-[Exercise Part 2](https://github.com/JaredEzz/software-engineering-resources/blob/master/Work/Activity_C_Folder/%F0%9F%92%BB%20Activity%20C3_%20Learning%20Web%20Design%20Principles%20Part%202.pdf)  
+[Learning CSS Part 1](https://github.com/JaredEzz/software-engineering-resources/blob/master/Activity_C_Folder/%F0%9F%92%BB%20Activity%20C1_%20Learning%20CSS%20Part%201.pdf)  
+[Learning CSS Part 2](https://github.com/JaredEzz/software-engineering-resources/blob/master/Activity_C_Folder/%F0%9F%92%BB%20Activity%20C2_%20Learning%20CSS%20Part%202.pdf)  
+[Learning Web Design Principles Part 1](https://github.com/JaredEzz/software-engineering-resources/blob/master/Activity_C_Folder/%F0%9F%92%BB%20Activity%20C3_%20Learning%20Web%20Design%20Principles%20Part%201.pdf)  
+[Learning Web Design Principles Part 2](https://github.com/JaredEzz/software-engineering-resources/blob/master/Activity_C_Folder/%F0%9F%92%BB%20Activity%20C4_%20Learning%20Web%20Design%20Principles%20Part%202.pdf)  
 
 
 #### Activity D - Development Workflow with Git; Understanding HTTP; Web Server Configuration;  
@@ -17,8 +17,8 @@ Oftentimes I read these pages only to get the minimum amount of information for 
 
 
 #### Activity J - Learing Javascript Part 4 & Part 5; Debugging Javascript;
-[Exercise Part 4](https://github.com/JaredEzz/software-engineering-resources/blob/master/Work/Activity_J_folder/%F0%9F%92%BB%20Activity%20J4_%20Learning%20JavaScript%20Part%204.pdf)  
-[Exercise Part 5](https://github.com/JaredEzz/software-engineering-resources/blob/master/Work/Activity_J_folder/%F0%9F%92%BB%20Activity%20J5_%20Learning%20JavaScript%20Part%205.pdf)  
+[Learning Javascript Part 4](https://github.com/JaredEzz/software-engineering-resources/blob/master/Work/Activity_J_folder/%F0%9F%92%BB%20Activity%20J4_%20Learning%20JavaScript%20Part%204.pdf)  
+[Learning Javascript Part 5](https://github.com/JaredEzz/software-engineering-resources/blob/master/Work/Activity_J_folder/%F0%9F%92%BB%20Activity%20J5_%20Learning%20JavaScript%20Part%205.pdf)  
 [Exercise Debugging Javascript](https://github.com/JaredEzz/software-engineering-resources/blob/master/Work/Activity_J_folder/%F0%9F%92%BB%20Activity%20J6_%20Debugging%20JavaScript.pdf)  
 
 
