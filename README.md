@@ -6,7 +6,7 @@ Oftentimes I read these pages only to get the minimum amount of information for 
 #### Aspect Oriented Programming 
 [Readings](https://github.com/JaredEzz/software-engineering-resources/blob/master/aspect-oriented-programming/Aspect%20Oriented%20Programming%20Pre-class%20Reading%20and%20Assignment.pdf)  
 [Quiz](./aspect-oriented-programming/aspect-oriented-programming-quiz.md)  
-[Tutorial - Defining Good Test Cases](https://github.com/JaredEzz/software-engineering-resources/blob/master/aspect-oriented-programming/Aspect%20Oriented%20Programming%20Tutorial%20and%20Lab.pdf)  
+[Tutorial](https://github.com/JaredEzz/software-engineering-resources/blob/master/aspect-oriented-programming/Aspect%20Oriented%20Programming%20Tutorial%20and%20Lab.pdf)  
 
 #### Basic Testing Concepts
 [Readings](https://github.com/JaredEzz/software-engineering-resources/blob/master/basic-testing-concepts/Basic%20Testing%20Concepts%20Pre-Class%20Assignment.pdf)  
