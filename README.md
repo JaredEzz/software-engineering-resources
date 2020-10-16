@@ -24,7 +24,7 @@ Oftentimes I read these pages only to get the minimum amount of information for 
 
 #### Activity V - Learing Vue; Todo List; Learning the Vue CLI;
 [Exercise Learning Vue](https://github.com/JaredEzz/software-engineering-resources/blob/master/Activity_J_folder/%F0%9F%92%BB%20Activity%20V1_%20Learning%20Vue.pdf)  
-[Exercise Todo List(https://github.com/JaredEzz/software-engineering-resources/blob/master/Activity_J_folder/%F0%9F%92%BB%20Activity%20V2_%20Todo%20List.pdf  
+[Exercise Todo List](https://github.com/JaredEzz/software-engineering-resources/blob/master/Activity_J_folder/%F0%9F%92%BB%20Activity%20V2_%20Todo%20List.pdf)  
 [Exercise Learning the Vue CLI](https://github.com/JaredEzz/software-engineering-resources/blob/master/Activity_J_folder/%20Activity%20V3_%20Learning%20the%20Vue%20CLI.pdf)  
 
 #### Aspect Oriented Programming 
