@@ -57,6 +57,9 @@ Oftentimes I read these pages only to get the minimum amount of information for 
 [Project 3](https://github.com/JaredEzz/software-engineering-resources/blob/master/Creative-Project/%F0%9F%8E%A8%20Creative%20Project%20%233.pdf)  
 [Project 4](https://github.com/JaredEzz/software-engineering-resources/blob/master/Creative-Project/%F0%9F%8E%A8%20Creative%20Project%20%234.pdf)  
 
+### Data Structures
+[Book - Grokking Algorithms: An illustrated guide for programmers and other curious people](https://www.amazon.com.tr/Grokking-Algorithms-Aditya-Y-Bhargava/dp/1617292230)
+
 #### Docker
 [Install, Set up and Run a Container](https://github.com/JaredEzz/software-engineering-resources/blob/master/docker/docker-reading.pdf)  
 [Quiz](./docker/docker-quiz.md)  
